@@ -7,7 +7,7 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 
 🔗 👉 Live Demo: https://react-admin-books.vercel.app
 
-###  preview image
+###  Preview image
 
 <table>
   <tr>
