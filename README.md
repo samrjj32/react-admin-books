@@ -7,12 +7,11 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 
 🔗 Live Demo: https://react-admin-books.vercel.app
 
-![Dark Mode](./public/assets/dark.png)
-![Light Mode](./public/assets/light.png)
+<h3>🌚 Light Mode</h3>
+<img src="./public/assets/light.png" alt="Light Mode" width="500"/>
 
 <h3>🌚 Dark Mode</h3>
-
-<img src="./public/assets/dark.png" alt="Dark Mode" width="700"/>
+<img src="./public/assets/dark.png" alt="Dark Mode" width="500"/>
 
 
 ---
