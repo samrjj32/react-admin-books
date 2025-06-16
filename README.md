@@ -1,7 +1,6 @@
 # 📚 React Admin Books Management
 
-A clean and simple Book & Author Management Dashboard built using **[React Admin](https://marmelab.com/react-admin/)**, backed by a local **JSON Server**. Perfect for demoing admin dashboards with RESTful APIs.
-
+A clean and simple Book & Author Management Dashboard built using **[React Admin](https://marmelab.com/react-admin/)**, backed by a local **JSON Server**.
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
 ![License](https://img.shields.io/badge/license-MIT-green)
