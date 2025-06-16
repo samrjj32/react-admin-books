@@ -23,17 +23,6 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 </table>
 
 
----
-
-## 🚀 Features
-
-- 📖 Manage books and authors from a responsive admin panel
-- ⚙️ JSON Server backend with mock data
-- 🔍 Filtering, pagination, and sorting
-- ✏️ Edit, delete, and add resources
-- 🛠️ Built with `React Admin`, `Material UI`, `TypeScript`, and `Vite`
-
----
 
 ## ✅ Prerequisites
 
