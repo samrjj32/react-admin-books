@@ -1,30 +1,38 @@
-# React Admin Books Management
+# 📚 React Admin Books Management
 
-A books management application built with React Admin, providing a clean interface for managing books and authors.
+A clean and simple Book & Author Management Dashboard built using **[React Admin](https://marmelab.com/react-admin/)**, backed by a local **JSON Server**. Perfect for demoing admin dashboards with RESTful APIs.
 
-## Prerequisites
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-- Node.js (v14 or later)
-- npm (v6 or later) or yarn
+---
 
-## Getting Started
+## 🚀 Features
+
+- Manage books and authors from a responsive admin panel
+- JSON Server backend with mock data
+- Filtering, pagination, and sorting
+- Edit, delete, and add resources
+- Built with `React Admin`, `Material UI`, `TypeScript`, and `Vite`
+
+---
+
+## ✅ Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or newer)
+- npm (v6+) or yarn
+
+---
+
+## 🛠️ Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-admin-books.git
+git clone https://github.com/samrjj32/react-admin-books.git
 cd react-admin-books
-```
 
-### 2. Install Dependencies
-
-Install all the required dependencies by running:
-
-```bash
-npm install
-# or
-yarn install
-```
 
 ### 4. Run the Application
 
