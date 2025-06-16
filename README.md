@@ -10,6 +10,10 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 ![Dark Mode](./public/assets/dark.png)
 ![Light Mode](./public/assets/light.png)
 
+<h3>🌚 Dark Mode</h3>
+
+<img src="./public/assets/dark.png" alt="Dark Mode" width="700"/>
+
 
 ---
 
