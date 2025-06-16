@@ -45,7 +45,8 @@ command:
 npm run dev
 ```
 
-The application will be available at [http://localhost:5173](http://localhost:5173)
+The application will be available at [http://localhost:5173](http://localhost:5173) 
+and Json-server at [http://localhost:3001](http://localhost:3001)
 
 ## Project Structure
 
