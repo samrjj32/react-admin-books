@@ -10,11 +10,11 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 
 ## 🚀 Features
 
-- Manage books and authors from a responsive admin panel
-- JSON Server backend with mock data
-- Filtering, pagination, and sorting
-- Edit, delete, and add resources
-- Built with `React Admin`, `Material UI`, `TypeScript`, and `Vite`
+- 📖 Manage books and authors from a responsive admin panel
+- ⚙️ JSON Server backend with mock data
+- 🔍 Filtering, pagination, and sorting
+- ✏️ Edit, delete, and add resources
+- 🛠️ Built with `React Admin`, `Material UI`, `TypeScript`, and `Vite`
 
 ---
 
@@ -32,41 +32,63 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 ```bash
 git clone https://github.com/samrjj32/react-admin-books.git
 cd react-admin-books
+```
 
-
-### 4. Run the Application
-
-The project uses concurrently to run both the React Admin frontend and the JSON Server together.
-
-command:
+### 2. Install Dependencies
 
 ```bash
-# This will start both the JSON server and the React-admin app
+npm install
+# or
+yarn install
+```
+
+### 3. Run the Application
+
+> This project uses [`concurrently`](https://www.npmjs.com/package/concurrently) to run both the React Admin frontend and the JSON Server simultaneously.
+
+```bash
 npm run dev
 ```
 
-The application will be available at [http://localhost:5173](http://localhost:5173) 
-and Json-server at [http://localhost:3001](http://localhost:3001)
+- 🌐 React Admin App: [http://localhost:5173](http://localhost:5173)  
+- 📦 JSON Server API: [http://localhost:3001](http://localhost:3001)
 
-## Project Structure
+---
 
-- `/src` - Source code
-  - `/authors` - Author-related components
-  - `/books` - Book-related components
-  - `/components` - Common components
-  - `App.tsx` - Main application component
-  - `main.tsx` - Application entry point
-- `/public` - Static assets
-- `books.json` - Mock data for the JSON server
+## 📁 Project Structure
 
 ```
-📝 License
-This project is licensed under the MIT License — feel free to use and modify.
+react-admin-books/
+├── public/                  # Static assets
+├── src/                     # Source code
+│   ├── authors/             # Author-related components
+│   ├── books/               # Book-related components
+│   ├── components/          # Reusable shared components
+│   ├── App.tsx              # Main App component
+│   └── main.tsx             # Application entry point
+├── books.json               # Mock data for JSON Server
+├── package.json             # Project scripts and dependencies
+```
 
-👨‍💻 Author
-Made with ❤️ by Samrajj
+---
 
-yaml
-Copy
-Edit
+## 🔌 Data Provider
 
+This app uses [`ra-data-simple-rest`](https://github.com/marmelab/react-admin/tree/master/packages/ra-data-simple-rest) to connect with the JSON Server. It supports:
+
+- 🔁 Pagination
+- 🔍 Filtering
+- ↕️ Sorting
+- ✍️ CRUD operations
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** — feel free to use, share, and modify.
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Samrajj](https://github.com/samrjj32)
