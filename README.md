@@ -70,18 +70,7 @@ react-admin-books/
 ├── package.json             # Project scripts and dependencies
 ```
 
----
 
-## 🔌 Data Provider
-
-This app uses [`ra-data-simple-rest`](https://github.com/marmelab/react-admin/tree/master/packages/ra-data-simple-rest) to connect with the JSON Server. It supports:
-
-- 🔁 Pagination
-- 🔍 Filtering
-- ↕️ Sorting
-- ✍️ CRUD operations
-
----
 
 ## 📝 License
 
