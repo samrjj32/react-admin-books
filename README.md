@@ -50,7 +50,7 @@ yarn install
 npm run dev
 ```
 
-- 🌐 React Admin App: [http://localhost:5173](http://localhost:5173)  
+- 🌐 React Admin App: [http://localhost:5173](http://localhost:5173)
 - 📦 JSON Server API: [http://localhost:3001](http://localhost:3001)
 
 ---
@@ -69,8 +69,6 @@ react-admin-books/
 ├── books.json               # Mock data for JSON Server
 ├── package.json             # Project scripts and dependencies
 ```
-
-
 
 ## 📝 License
 
