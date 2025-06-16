@@ -59,10 +59,14 @@ and Json-server at [http://localhost:3001](http://localhost:3001)
 - `/public` - Static assets
 - `books.json` - Mock data for the JSON server
 
-## Data Provider
-
-The application uses [ra-data-simple-rest] as the data provider, which works with REST APIs using simple GET parameters for filters and sorting.
-
 ```
+📝 License
+This project is licensed under the MIT License — feel free to use and modify.
 
-```
+👨‍💻 Author
+Made with ❤️ by Samrajj
+
+yaml
+Copy
+Edit
+
