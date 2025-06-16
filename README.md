@@ -5,7 +5,7 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-🔗 Live Demo: https://react-admin-books.vercel.app
+🔗 👉 Live Demo: https://react-admin-books.vercel.app
 
 ### 🌓 Dark & Light Mode
 
