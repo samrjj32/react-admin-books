@@ -36,7 +36,9 @@ cd react-admin-books
 
 ### 4. Run the Application
 
-Start both the JSON server and the React admin application with a single command:
+The project uses concurrently to run both the React Admin frontend and the JSON Server together.
+
+command:
 
 ```bash
 # This will start both the JSON server and the React-admin app
