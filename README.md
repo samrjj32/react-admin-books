@@ -36,6 +36,8 @@ A clean and simple Book & Author Management Dashboard built using **[React Admin
 ### 1. Clone the Repository
 
 ```bash
+use main Branch
+
 git clone https://github.com/samrjj32/react-admin-books.git
 cd react-admin-books
 ```
