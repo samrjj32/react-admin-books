@@ -8,7 +8,7 @@ const httpClient = (url: string, options: any = {}) => {
   return fetchUtils.fetchJson(url, options);
 };
 
-const baseUrl = "https://react-admin-books.onrender.com";
+const baseUrl = "http://localhost:3001";
 const dataProvider = simpleRestProvider(baseUrl, httpClient);
 
 export default {
